@@ -49,3 +49,4 @@
 
 This line is added from local repository. 
 This line is added from remote repository.
+This line is added from new branch.
